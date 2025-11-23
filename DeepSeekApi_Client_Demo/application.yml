@@ -1,0 +1,10 @@
+spring:
+  ai:
+    deepseek:
+      api-key: ${Api_Key}
+    zhipuai:
+      base-url: https://open.bigmodel.cn/api/paas/
+      api-key: 82f521f01aa64e14bd453d08499bd292.R6MUmkFN5nkmFFgj
+    chat:
+      client:
+        enabled: false
